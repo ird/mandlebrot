@@ -1,4 +1,4 @@
-package uk.ord.ird.mandlebrot;
+package uk.org.ird.mandlebrot;
 
 import java.io.IOException;
 

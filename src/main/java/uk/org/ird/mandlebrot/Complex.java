@@ -1,4 +1,4 @@
-package uk.ord.ird.mandlebrot;
+package uk.org.ird.mandlebrot;
 
 public class Complex {
     public Complex(double re, double im) {

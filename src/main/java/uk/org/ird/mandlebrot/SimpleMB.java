@@ -1,4 +1,4 @@
-package uk.ord.ird.mandlebrot;
+package uk.org.ird.mandlebrot;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
